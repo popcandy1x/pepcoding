@@ -1,0 +1,163 @@
+venkateshjaiswal@Venkateshs-MacBook-Air ~ % cd desktop/jrandom/AntiPal
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+abc
+false
+abccccdd
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 8
+	at antipal.validStringChecker(antipal.java:23)
+	at antipal.main(antipal.java:12)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+abc
+false
+abccccdd
+true
+xyyx
+true
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+ppppqr
+false
+jlakds
+true
+sadjl
+false
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+false
+8
+abccccdd
+true
+xyyx
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at antipal.main(antipal.java:9)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+abccccdd
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at antipal.main(antipal.java:9)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+8
+abccccdd
+2
+lad
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at antipal.main(antipal.java:9)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % ajava antipal.java
+zsh: command not found: ajava
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+8
+abccccdd
+yes
+dddddddd
+4
+xyyx
+yes
+yyyy
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+8
+abccccdd
+yes
+bbbbbbbb
+sdad
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at antipal.main(antipal.java:9)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+antipal.java:6: error: illegal start of type
+import java.util.*;
+^
+antipal.java:6: error: <identifier> expected
+import java.util.*;
+                 ^
+antipal.java:7: error: illegal start of type
+import java.lang.*;
+^
+antipal.java:7: error: <identifier> expected
+import java.lang.*;
+                 ^
+antipal.java:8: error: illegal start of type
+import java.io.*;
+^
+antipal.java:8: error: <identifier> expected
+import java.io.*;
+               ^
+6 errors
+error: compilation failed
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+8
+abccccdd
+yes
+ddccccba
+hkjads
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at antipal.main(antipal.java:9)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+8
+abccccdd
+yes
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 8
+	at antipal.repeatIndexReverser(antipal.java:74)
+	at antipal.main(antipal.java:16)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
+3
+3
+abc
+no
+8
+abccccdd
+yes
+abccccdd
+hlasd
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at antipal.main(antipal.java:9)
+venkateshjaiswal@Venkateshs-MacBook-Air AntiPal % java antipal.java
